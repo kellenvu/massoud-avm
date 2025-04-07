@@ -1,3 +1,5 @@
+"""This file contains Python-style pseudocode for the brain arteriovenous malformation simulation. It is not meant to be compiled/run."""
+
 def main():
 
     for _ in range(NUM_NIDI):
